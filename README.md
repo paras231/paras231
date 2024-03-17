@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @paras231
-- 👀 I’m interested in collaborating in open source projects and Javascript projects
-- 🌱 I’m currently learning Blockchain 
-- 💞️ I’m looking to collaborate on any Javascript Project
+- 👋 Hi, I’m Paras Sharma
+- 👀 I’m interested in collaborating in open source   Javascript and Typescript projects
+- 🌱 I’m currently learning ML and AI with python 
+- 💞️ I’m looking to collaborate on any Javascript , react , next js project
 - 📫 How to reach me  email->  sharmaparas553@gmail.com
 
 <!---

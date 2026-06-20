@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Paras Sharma
 - 👀 I’m interested in collaborating in open source   Javascript and Typescript projects
 - I have worked with various tech stacks as node js , mongodb , typescript , vue js , react js , next js , redis etc.
-- I am having 3.5+ years of experience developing cross functional web apps.
+- I am having 4+ years of experience developing cross functional web apps.
 - 🌱 I’m currently learning ML and AI with python 
 - 💞️ I’m looking to collaborate on any Javascript , react , next js , python project
 - 📫 How to reach me  email->  sharmaparas553@gmail.com
